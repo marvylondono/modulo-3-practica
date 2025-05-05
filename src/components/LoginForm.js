@@ -59,7 +59,7 @@ function LoginForm() {
       >
         <ThemedComponent />
         <Card
-          title="Inicio de Sesión"
+          title="Inicio de Sesión - Marvy"
           style={{ width: 300, margin: "auto", marginTop: 50 }}
         >
           <Form name="login" onFinish={onFinish}>
